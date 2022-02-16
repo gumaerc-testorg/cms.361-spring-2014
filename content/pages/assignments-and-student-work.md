@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments and Student Work
 uid: c3011914-67ad-400b-3dcd-79061af38854
 ---
@@ -18,7 +21,7 @@ Expect to spend time outside of the seminar on posts to the course blog. These i
 
 ### Example posts
 
-["Reflections on the May 16th FCC Ruling and Protests" (PDF)]({{< baseurl >}}/resources/mitcms_361s14_may16fcc) by An MIT Student. Used with permission.
+["Reflections on the May 16{{< sup "th" >}} FCC Ruling and Protests" (PDF)]({{< baseurl >}}/resources/mitcms_361s14_may16fcc) by An MIT Student. Used with permission.
 
 ["Reflections on Anonymous (both as a term and as a movement)" (PDF)]({{< baseurl >}}/resources/mitcms_361s14_reflconanony) by Oset Babur. Used with permission.
 
