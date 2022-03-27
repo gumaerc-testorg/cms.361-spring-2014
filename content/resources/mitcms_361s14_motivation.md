@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: c3011914-67ad-400b-3dcd-79061af38854
 resourcetype: Document
 title: The Motivation and Process behind the Formation of Social Movement Coalitions
 uid: 797361ca-fd01-5459-8851-5652952a32b6

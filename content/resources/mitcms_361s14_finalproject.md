@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: c3011914-67ad-400b-3dcd-79061af38854
 resourcetype: Document
 title: Differences in Desired and Actual Outcomes between Moments in the course of
   a Social Movement

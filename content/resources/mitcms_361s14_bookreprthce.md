@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: c3011914-67ad-400b-3dcd-79061af38854
 resourcetype: Document
 title: 'Here Comes Everybody: The Power of Organizing Without Organizations'
 uid: 41876ce1-e475-9c80-d125-bff369181d75

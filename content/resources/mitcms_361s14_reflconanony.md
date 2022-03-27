@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: c3011914-67ad-400b-3dcd-79061af38854
 resourcetype: Document
 title: Reflections on Anonymous (both as a term and as a movement)
 uid: 4e435b46-6426-12d6-a830-d7e095d29f51

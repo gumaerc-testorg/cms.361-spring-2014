@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: c3011914-67ad-400b-3dcd-79061af38854
 resourcetype: Document
 title: 'From Stop Watching Us to The Day We Fight Back: An Analysis of the Success
   of Actions Within the Broader Context of the Anti-Surveillance Movement'

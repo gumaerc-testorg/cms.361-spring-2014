@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: c3011914-67ad-400b-3dcd-79061af38854
 resourcetype: Document
 title: 'Occupy Gezi: Unexpectedly Uniting A Divided Society, Through a Single Hashtag'
 uid: 0cf5807e-3eb1-d44a-d020-c915a184d2a9
