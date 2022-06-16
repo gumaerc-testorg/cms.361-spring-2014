@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: This section provides details on the course assignments and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments and Student Work
 uid: c3011914-67ad-400b-3dcd-79061af38854
 ---
-
 Reflections
 -----------
 
@@ -21,9 +22,9 @@ Expect to spend time outside of the seminar on posts to the course blog. These i
 
 ### Example posts
 
-["Reflections on the May 16{{< sup "th" >}} FCC Ruling and Protests" (PDF)]({{< baseurl >}}/resources/mitcms_361s14_may16fcc) by An MIT Student. Used with permission.
+{{% resource_link becf2194-0d4b-2130-2c35-0f35e221a982 "\"Reflections on the May 16{{< sup \"th\" >}} FCC Ruling and Protests\" (PDF)" %}} by An MIT Student. Used with permission.
 
-["Reflections on Anonymous (both as a term and as a movement)" (PDF)]({{< baseurl >}}/resources/mitcms_361s14_reflconanony) by Oset Babur. Used with permission.
+{{% resource_link 4e435b46-6426-12d6-a830-d7e095d29f51 "\"Reflections on Anonymous (both as a term and as a movement)\" (PDF)" %}} by Oset Babur. Used with permission.
 
 Book Report
 -----------
@@ -32,9 +33,9 @@ Each student chooses one book to read, summarize in a post, and present to the c
 
 ### Example Book Reports
 
-["Electronic Civil Disobedience" (PDF)]({{< baseurl >}}/resources/mitcms_361s14_bookreprtecd) by An MIT Student. Used with permission.
+{{% resource_link 82c3ab0e-a84d-6ed3-e444-0b0168215b33 "\"Electronic Civil Disobedience\" (PDF)" %}} by An MIT Student. Used with permission.
 
-["Here Comes Everybody" (PDF)]({{< baseurl >}}/resources/mitcms_361s14_bookreprthce) by Oset Babur. Used with permission.
+{{% resource_link 41876ce1-e475-9c80-d125-bff369181d75 "\"Here Comes Everybody\" (PDF)" %}} by Oset Babur. Used with permission.
 
 Final Project Proposal
 ----------------------
@@ -43,11 +44,11 @@ Includes short overview (abstract), research question, case selection, methods, 
 
 ### Example Proposals
 
-["Media's Role in Organizing the Occupy Gezi Movement" (PDF)]({{< baseurl >}}/resources/mitcms_361s14_occupygezipr) by Oset Babur. Used with permission.
+{{% resource_link 8ee3988c-ab08-efb1-44fb-4a88b144523b "\"Media's Role in Organizing the Occupy Gezi Movement\" (PDF)" %}} by Oset Babur. Used with permission.
 
-["The Motivation and Process behind the Formation of Social Movement Coalitions" (PDF)]({{< baseurl >}}/resources/mitcms_361s14_motivation) by An MIT Student. Used with permission.
+{{% resource_link 797361ca-fd01-5459-8851-5652952a32b6 "\"The Motivation and Process behind the Formation of Social Movement Coalitions\" (PDF)" %}} by An MIT Student. Used with permission.
 
-Revised draft: ["Differences in Desired and Actual Outcomes between Moments in the course of a Social Movement" (PDF)]({{< baseurl >}}/resources/mitcms_361s14_finalproject) by An MIT Student. Used with permission.
+Revised draft: {{% resource_link 282c2323-c139-5f82-e766-2711226a64fe "\"Differences in Desired and Actual Outcomes between Moments in the course of a Social Movement\" (PDF)" %}} by An MIT Student. Used with permission.
 
 Final Project
 -------------
@@ -56,7 +57,7 @@ The final project is a written research paper (approx. 20–30 pages) focusing o
 
 ### Example Project
 
-["From Stop Watching Us to The Day We Fight Back: An Analysis of the Success of Actions Within the Broader Context of the Anti-Surveillance Movement" (PDF)]({{< baseurl >}}/resources/mitcms_361s14_finalpaper) by An MIT Student. Used with permission.
+{{% resource_link 6629d8d5-d51b-980e-4491-2e16f815a24d "\"From Stop Watching Us to The Day We Fight Back: An Analysis of the Success of Actions Within the Broader Context of the Anti-Surveillance Movement\" (PDF)" %}} by An MIT Student. Used with permission.
 
 Final Project Presentation
 --------------------------
