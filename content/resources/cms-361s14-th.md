@@ -12,10 +12,10 @@ image_metadata:
   image-alt: Scene from the Occupy Wall Street protests of people around a table covered
     with laptops and cell phones.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Occupy Wall Street Day 3 (thumbnail)
 uid: 535c19ef-553a-a370-244e-1fee56e45730
 ---
 Occupy Wall Street Day 3, September 19, 2011. Thumbnail of an original photograph by David Shankbone on flickr.
-

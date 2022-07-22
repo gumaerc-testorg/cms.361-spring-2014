@@ -7,6 +7,7 @@ file: /courses/cms-361-networked-social-movements-media-mobilization-spring-2014
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Differences in Desired and Actual Outcomes between Moments in the course 
 uid: 282c2323-c139-5f82-e766-2711226a64fe
 ---
 Example of student work: revised draft of project proposal for a research paper on how discrete differentiated actions in the broader scope of a social movement are designed.
-
