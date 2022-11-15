@@ -11,7 +11,3 @@ leftnav:
   name: Assignments and Student Work
   url: /pages/assignments-and-student-work
   weight: 30
-- identifier: d67bbf95-265a-472d-3aab-8981c3a8cfce
-  name: Instructor Insights
-  url: /pages/instructor-insights
-  weight: 40
