@@ -6,9 +6,9 @@ file: /courses/cms-361-networked-social-movements-media-mobilization-spring-2014
 file_size: 5487
 file_type: image/jpeg
 image_metadata:
-  caption: Occupy Wall Street Day 3, September 19, 2011. (Original photograph by {{%
-    resource_link "abfee2da-484b-404a-8e18-c99b447b9142" "David Shankbone" %}} on
-    flickr.)
+  caption: Occupy Wall Street Day 3, September 19, 2011. (Original photograph by [David
+    Shankbone](https://www.flickr.com/photos/shankbone/6163977003/in/set-72157627710064844)
+    on flickr.)
   credit: Original photograph by David Shankbone on flickr.
   image-alt: Scene from the Occupy Wall Street protests of people around a table covered
     with laptops and cell phones.

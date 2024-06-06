@@ -3,6 +3,7 @@ content_type: resource
 description: "Example of student work for a reflection paper on E. Gabriella Coleman\u2019\
   s piece Anonymous: From the Lulz to Collective Action."
 file: /courses/cms-361-networked-social-movements-media-mobilization-spring-2014/4e435b46642612d6a830d7e095d29f51_MITCMS_361S14_ReflcOnAnony.pdf
+file_size: 101370
 file_type: application/pdf
 learning_resource_types:
 - Assignments

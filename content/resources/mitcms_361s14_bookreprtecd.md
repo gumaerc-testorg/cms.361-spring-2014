@@ -3,6 +3,7 @@ content_type: resource
 description: Example of student work for an assignment to chooses one book to read,
   summarize it in a post, and present it to the class.
 file: /courses/cms-361-networked-social-movements-media-mobilization-spring-2014/82c3ab0ea84d6ed3e4440b0168215b33_MITCMS_361S14_BookReprtECD.pdf
+file_size: 579733
 file_type: application/pdf
 learning_resource_types:
 - Assignments

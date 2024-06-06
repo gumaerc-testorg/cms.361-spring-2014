@@ -41,7 +41,7 @@ Learning activities over the course of the semester will include:
 *   Conduct peer review of each other's work;
 *   Complete a final project (develop clear research questions, choose appropriate methods & tools, produce compelling study design; present a detailed project workplan; research, write, and present the final project)
 
-Website: {{% resource_link "ad82627d-573e-4a85-80e5-a2c19c3851ca" "Networked Social Movements" %}}
+Website: [Networked Social Movements](https://networkmovements.wordpress.com/)
 
 Student Assignments & Grading
 -----------------------------
@@ -58,12 +58,12 @@ Grading for this course is organized as follows:
 
 ### A Note About the Writing Center
 
-The {{% resource_link "72e26b8c-03b7-49e9-8359-a09f420e94b3" "Writing and Communication Center" %}} offers free one-on-one professional advice from published writers about oral presentations and about all types of academic, creative, and professional writing.
+The [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) offers free one-on-one professional advice from published writers about oral presentations and about all types of academic, creative, and professional writing.
 
 ### A Note About Blogging and Anonymity
 
-All participants in the course are expected to post regular blog entries on a publicly accessible site (the course blog, {{% resource_link "343e11a5-be01-4ddd-9fef-71ddfcb872aa" "Networked Social Movements" %}}). You may, however, choose to remain anonymous (actually, pseudonymous) by publishing under a pseudonym not easily linkable to your real name.
+All participants in the course are expected to post regular blog entries on a publicly accessible site (the course blog, [Networked Social Movements](http://networkmovements.wordpress.com)). You may, however, choose to remain anonymous (actually, pseudonymous) by publishing under a pseudonym not easily linkable to your real name.
 
 ### Required Statement on Plagiarism
 
-Plagiarism—use of another's intellectual work without acknowledgement - is a serious offense. It is the policy of the CMS Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted (or linked). Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the {{% resource_link "e4c7dc17-860d-472a-9245-4d37e775c046" "Writing and Communication Center Website on Plagiarism" %}}.
+Plagiarism—use of another's intellectual work without acknowledgement - is a serious offense. It is the policy of the CMS Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted (or linked). Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the [Writing and Communication Center Website on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
