@@ -3,7 +3,7 @@ content_type: resource
 description: 'Example of student work: revised draft of project proposal for a research
   paper on how discrete differentiated actions in the broader scope of a social movement
   are designed.'
-file: /ol-ocw-studio-app/courses/cms-361-networked-social-movements-media-mobilization-spring-2014/282c2323c1395f82e7662711226a64fe_MITCMS_361S14_FinalProject.pdf
+file: /courses/cms-361-networked-social-movements-media-mobilization-spring-2014/282c2323c1395f82e7662711226a64fe_MITCMS_361S14_FinalProject.pdf
 file_size: 159049
 file_type: application/pdf
 learning_resource_types:
