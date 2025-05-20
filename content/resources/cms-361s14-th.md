@@ -2,7 +2,7 @@
 content_type: resource
 description: Occupy Wall Street Day 3, September 19, 2011. Thumbnail of an original
   photograph by David Shankbone on flickr.
-file: /ol-ocw-studio-app/courses/cms-361-networked-social-movements-media-mobilization-spring-2014/535c19ef553aa370244e1fee56e45730_cms-361s14-th.jpg
+file: /courses/cms-361-networked-social-movements-media-mobilization-spring-2014/535c19ef553aa370244e1fee56e45730_cms-361s14-th.jpg
 file_size: 5487
 file_type: image/jpeg
 image_metadata:
