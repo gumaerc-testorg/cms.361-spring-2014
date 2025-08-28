@@ -3,7 +3,7 @@ content_type: resource
 description: 'Example of student work: project proposal for a research paper to examine
   the broad set of factors that allow for the emergence of SMO coalitions and by what
   process are they created.'
-file: /courses/cms-361-networked-social-movements-media-mobilization-spring-2014/797361cafd01545988515652952a32b6_MITCMS_361S14_Motivation.pdf
+file: /ol-ocw-studio-app/courses/cms-361-networked-social-movements-media-mobilization-spring-2014/797361cafd01545988515652952a32b6_MITCMS_361S14_Motivation.pdf
 file_size: 572248
 file_type: application/pdf
 learning_resource_types:
