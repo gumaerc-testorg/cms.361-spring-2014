@@ -81,7 +81,7 @@ Blanco, Victor. \["The Media Politics of Social Protest." (PDF)\]([http://www.no
 
 ### Additional
 
-Le Bon, Gustave. "[Crowds Termed Criminal Crowds](http://www.brocku.ca/MeadProject/Lebon/LeBon_1895/LeBon_1895_11.html)." Excerpted from *T\_\_he Crowd: A Study of the Popular Mind*. 1896.
+Le Bon, Gustave. "[Crowds Termed Criminal Crowds](http://www.brocku.ca/MeadProject/Lebon/LeBon_1895/LeBon_1895_11.html)." Excerpted from *The Crowd: A Study of the Popular Mind*. 1896.
 
 Goodwin, Jeff, and James Jasper. "[Caught in a Winding, Snarling Vine: The Structural Bias of Political Process Theory.](http://www.jstor.org/stable/685013)" *Sociological Forum* 14, no. 1 (1999): 27–54.
 
@@ -111,7 +111,7 @@ Take the [Frameworks Institute](https://www.frameworksinstitute.org/) mini-cours
 
 Moody, Chris. "[How Republicans Are Being Taught to Talk About Occupy Wall Street](http://news.yahoo.com/blogs/ticket/republicans-being-taught-talk-occupy-wall-street-133707949.html)," *Yahoo! News*, December 1, 2011.
 
-Browse methods of [*Shaping Abortion Discourse*](http://www.ssc.wisc.edu/abortionstudy/), especially the [coding set](http://www.ssc.wisc.edu/abortionstudy/coding/codingmainframeset.htm).
+Browse methods of [*Shaping Abortion Discourse*](https://web.archive.org/web/20230307220306/https://www.ssc.wisc.edu/abortionstudy/), especially the [coding set](https://web.archive.org/web/20220328110316/https://www.ssc.wisc.edu/abortionstudy/coding/codingmainframeset.htm).
 
 ### Additional
 

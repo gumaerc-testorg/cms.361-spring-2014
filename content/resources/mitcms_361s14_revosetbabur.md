@@ -4,7 +4,7 @@ description: "Example of student work: project proposal for a research paper to 
   \ how the use of social media worked to increase Occupy Gezi\u2019s stamina as a\
   \ social movement, and in what way it worked to bring together protesters from multiple\
   \ facets of Turkish society."
-file: /courses/cms-361-networked-social-movements-media-mobilization-spring-2014/0cf5807e3eb1d44ad020c915a184d2a9_MITCMS_361S14_RevOsetBabur.pdf
+file: /ol-ocw-studio-app/courses/cms-361-networked-social-movements-media-mobilization-spring-2014/0cf5807e3eb1d44ad020c915a184d2a9_MITCMS_361S14_RevOsetBabur.pdf
 file_size: 79591
 file_type: application/pdf
 learning_resource_types:

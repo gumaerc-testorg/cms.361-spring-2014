@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: a case study of two discrete days of action
   within the AntiSurveillance movement.'
-file: /courses/cms-361-networked-social-movements-media-mobilization-spring-2014/6629d8d5d51b980e44912e16f815a24d_MITCMS_361S14_FinalPaper.pdf
+file: /ol-ocw-studio-app/courses/cms-361-networked-social-movements-media-mobilization-spring-2014/6629d8d5d51b980e44912e16f815a24d_MITCMS_361S14_FinalPaper.pdf
 file_size: 364435
 file_type: application/pdf
 learning_resource_types:
