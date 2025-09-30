@@ -62,4 +62,4 @@ A presentation of the final project. This is presented to the seminar f2f, and s
 
 ### Example Presentation
 
-"[#Occupygezi](https://prezi.com/zgwwiq2ndvtq/occupygezi/?utm_campaign=share&utm_medium=copy)." By Oset Babur.
+"{{% resource_link "3677b4d7-1b35-4268-9d7a-98e2348165e2" "#Occupygezi" %}}." By Oset Babur.
